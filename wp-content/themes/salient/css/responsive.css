@@ -3310,11 +3310,10 @@
 @media only screen and (max-width: 479px) {
 	.row{padding:5px;}
 	div#footer-outer {padding: 5px;}
-	header#top .container .row{padding-bottom:65px;}
 	i.icon-reorder{padding-right:40px;}
 	body h1.jumbo, body h2.jumbo, body h3.jumbo, body h4.jumbo, body h5.jumbo, body h6.jumbo, p.jumbo{font-size:35px!important;}
-	.phone{padding-left:88px; padding-top:21%; }	
-	body header#top #logo img{padding-left: 95px;}
+	.phone{padding-left:30px; padding-top:40%; }	
+	body header#top #logo img{padding-left: 50px;}
 }
 
 
