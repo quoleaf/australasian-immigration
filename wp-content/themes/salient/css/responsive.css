@@ -3301,7 +3301,9 @@
 @media only screen and (max-width: 690px) {
 	
 	header#top #logo img{margin-bottom:70px;}
-	.phone{padding-left:65%;}	
+	.phone{padding-left:88px; padding-top:28%; }	
+	header#top .container .row{padding-bottom: 100px;}
+	body header#top #logo img{padding-left: 105px;}
 
 }
 
@@ -3311,8 +3313,7 @@
 	header#top .container .row{padding-bottom:65px;}
 	i.icon-reorder{padding-right:40px;}
 	body h1.jumbo, body h2.jumbo, body h3.jumbo, body h4.jumbo, body h5.jumbo, body h6.jumbo, p.jumbo{font-size:35px!important;}
-	.phone h3{font-size:10px; line-height:15px;}
-	.phone {padding-left:61%;}
+	
 }
 
 
